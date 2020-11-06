@@ -1,0 +1,12 @@
+.greeting {
+  font-size: 5rem;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+}
+
+@media (min-width: 1024px) {
+  .greeting {
+    font-size: 10rem;
+  }
+}
