@@ -15,7 +15,7 @@ We will be using the following tools:
 
 The app is organized using a modular approach. (For more information on modularizing your application check out this article https://medium.com/@alexmngn/why-react-developers-should-modularize-their-applications-d26d381854c1).
 
-Check out the full source code here:
+Check out the full source code here: https://github.com/Nona-Creative/i18n-your-react-app
 
 ## Adding a translation to your module
 We have modularized our app so it only makes sense we also modularize our translations and keep them in our modules. This means adding a translation in each module and not a global translation file.
