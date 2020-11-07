@@ -40,7 +40,7 @@ export default Greeting
 `react-i18next` conveniently provides us with a `useTranslation` hook. In this example you'll notice, when calling the hook I feed it `Greeting`. This is our namespace. It's not required to use namespaces but I like to namespace my translations with my module name.
 
 ### t function
-All thats left now is to use the hook's `t` function, feed it a translation key and that's it. Your component is now ready to accept translated text.
+All that's left now is to use the hook's `t` function, feed it a translation key and that's it. Your component is now ready to accept translated text.
 
 The `t` function is quite powerful and can handle string interpolation, plurals, defaults, etc. For more information on this check: https://www.i18next.com/translation-function/essentials.
 
@@ -186,6 +186,6 @@ serviceWorker.unregister()
 ## Success, impumelelo, sukses, keberhasilan, éxito
 Awesome, we now have a translated app, that's easy to maintain, easy to collaborate without losing modularity.
 
-And, with all your copy and components neatly separated, how nice would it be if your backlog will never contain tickets like “Change button copy from X to Y” ever again? An article on using remote translations will come to a screen near you soon.
+And, with all your copy and components neatly separated, how nice would it be if your backlog will never contain tickets like "Change button copy from X to Y" ever again? An article on using remote translations will come to a screen near you soon.
 
-Thank you for reading, if you like this article please open up a PR against our example repo [[]] and add a translation for your native language!
+Thank you for reading, if you like this article please open up a PR against our example repo https://github.com/Nona-Creative/i18n-your-react-app and add a translation for your native language!
