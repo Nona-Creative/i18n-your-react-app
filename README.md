@@ -184,7 +184,7 @@ serviceWorker.unregister()
 ```
 
 ## Success, impumelelo, sukses, keberhasilan, éxito
-Awesome, we now have a translated app, that's easy to maintain, easy to collaborate without losing modularity.
+Awesome, we now have a translated app, that's easy to maintain, easy to collaborate on without losing modularity.
 
 And, with all your copy and components neatly separated, how nice would it be if your backlog will never contain tickets like "Change button copy from X to Y" ever again? An article on using remote translations will come to a screen near you soon.
 
